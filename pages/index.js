@@ -1,6 +1,6 @@
 function Home() 
 {
-    return <div>Página Principal Nova</div>
+    return <div>Página Principal Atual</div>
 }
 
 export default Home
